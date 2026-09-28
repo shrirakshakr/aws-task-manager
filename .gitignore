@@ -1,0 +1,23 @@
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Java
+backend/target/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+Thumbs.db
+desktop.ini
+backend/bin/
+
+backend/TestDb.class
+backend/cp.txt
